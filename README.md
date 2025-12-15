@@ -1,0 +1,1 @@
+This paper introduces Boundary OS, the first cross-domain operational architecture that explains how boundaries emerge, propagate, rupture, and repair across biological, affective, narrative, institutional, and AI-mediated environments.
